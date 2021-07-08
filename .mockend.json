@@ -11,7 +11,7 @@
     "post": "Post"
   },
   "Article": {
-    "articles": "ArticleModel[]",
+    "articles": "ArticleModel[]"
   },
   "ArticleModel": {
     "title": "string",
