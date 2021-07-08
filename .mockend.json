@@ -1,13 +1,6 @@
 {
-  "Post": {
+  "Article": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "url": "string",
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
