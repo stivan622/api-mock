@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "ArticleList": {
+  "Articlelist": {
     "articles": "Article[]",
   },
   "Article": {
