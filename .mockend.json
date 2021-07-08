@@ -10,6 +10,9 @@
     "body": "string",
     "post": "Post"
   },
+  "ArticleList": {
+    "articles": "Article[]",
+  },
   "Article": {
     "title": "string",
     "url": "string"
